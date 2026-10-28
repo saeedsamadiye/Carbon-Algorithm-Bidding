@@ -70,8 +70,8 @@ All sessions converged.
 
 ```bash
 pip install -r requirements.txt
-python -m pytest                      # about 5 seconds
-python experiments/run_experiments.py # about 13 minutes on a laptop
+python -m pytest                      
+python experiments/run_experiments.py 
 python experiments/make_figures.py
 ```
 
