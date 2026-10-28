@@ -1,0 +1,10 @@
+   __pycache__/
+   *.pyc
+   .pytest_cache/
+   venv/
+   .venv/
+   .idea/
+   .ipynb_checkpoints/
+   results/results_quick.csv
+   results/run_log.txt
+   .DS_Store
