@@ -94,5 +94,4 @@ python experiments/make_figures.py
 
 ## Author
 
-Saeed Samadiye. Code developed with the assistance of Claude (Anthropic).
-MIT License.
+Saeed Samadiye. I should mention that the code is revised by AI especially the Learning algorithm part. the backbone and foundation of game theory is completely developed by myself.
